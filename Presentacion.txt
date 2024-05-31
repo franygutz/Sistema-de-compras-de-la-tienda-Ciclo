@@ -1,6 +1,54 @@
-Lógica y Algoritmos
+Bienvenido al Sistema de compras de la tienda ciclo
 
-Caso de Estudio Final.
+Registrate para proceder a tu compra:
+Nombres: xxx
+Apellidos: yyy 
+Identificación: 1-2-3 
+Correo electrónico: bla@
+Número telefónico: 6564
+Dirección: 1. sisi
 
-Sistema de tienda de "Ciclo".
+Hola xxx, gracias por preferirnos. 
+
+En ciclo, dividimos nuestras prendas en 5 categorías:
+Gorras
+Camisas
+Joyería
+Pantalones
+Zapatos
+Por favor, digita el número de la categoría que desees comprar para desplegar el catálogo:
+5
+
+Categoria de zapatos disponibles:
+Zapatos deportivos
+Zapatos de dama
+Zapatos elegantes
+Por favor, digita el numero de la categoria que deseas.
+1
+
+(Despligue de zapatos disponibles)
+
+(Escoge uno de los disponibles)
+
+¿Deseas escoger otro?
+Si
+No
+
+1
+¿Pertenece a esta categoria?
+si
+no
+ 	1
+	(despliegue de la misma categoria y lectura de datos)
+	2
+	(despliegue de otas categetorias, selecciona una y selecciona producto, luego se
+	manda la misma parte de “deseas escoger otro? y se repite hasta que diga que no
+
+2
+(seleccion del metodo de pago y lectura del codigo del pago)
+Muchas gracias por tu compra. ¿Deseas dejar una reseña?
+Si
+No
+1 (lectura de reseña)
+2 (cerrar programa)
 
